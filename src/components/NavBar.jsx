@@ -51,12 +51,15 @@ const NavBar = () => {
           </Link>
         </div>
       </div>
-      <div className="flex bg-amazonclone-light_blue text-white space-x-3 text-xs xl:text-sm p-2 pl-6">
+      <div className="flex bg-amazonclone-light_blue text-white space-x-8 text-xs xl:text-sm p-2 pl-6">
         <div>Today's Deals</div>
         <div>Customer Service</div>
         <div>Registry</div>
         <div>Gift Cards</div>
+        <div>Best Sellers</div>
+        <div>Fresh</div>
         <div>Sell</div>
+        <div>Home & Kitchen</div>
       </div>
     </header>
   );

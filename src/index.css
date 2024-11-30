@@ -1,4 +1,4 @@
-@tailwind base;
+@tailwind base;                       /*compile into css*/
 @tailwind components;
 @tailwind utilities;
 

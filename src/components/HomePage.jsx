@@ -37,12 +37,12 @@ const HomePage = () => {
             link={"See the deals"}
           />
           <HomePageCard
-            title={"Echo Buds"}
+            title={"Smart watches"}
             img={"../images/home_grid_7.jpg"}
             link={"See more"}
           />
           <HomePageCard
-            title={"Family Plan: 3 months free"}
+            title={"Family Plan: 6 months free"}
             img={"../images/home_grid_8.jpg"}
             link={"Learn more"}
           />
